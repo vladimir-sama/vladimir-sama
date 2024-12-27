@@ -57,5 +57,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="56" height="40" alt="paypal logo"  />
   </a>
 </div>
+<br>
+<p align="center"><a href="https://vladimir-sama.itch.io/" target="_blank">Itch.io</a></p>
 
 ###
