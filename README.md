@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="vladimir_sama.png"  />
+  <img height="200" src="https://i.imgflip.com/9eyu13.gif"  />
 </div>
 
 ###
