@@ -5,6 +5,7 @@
 ###
 
 <p align="left">I'm Vladimir-sama, an 18-year-old programmer and game developer based in Argentina.</p>
+<p align="left">Fluent in both English and Spanish, and currently learning Russian</p>
 
 ###
 
