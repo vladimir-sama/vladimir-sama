@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/9eyu13.gif"  />
+  <img height="200" src="seanway.gif"  />
 </div>
 
 ###
@@ -34,7 +34,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="a {text-decoration: none;}">
   <a href="https://wa.me/5491130124602" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="56" height="40" alt="whatsapp logo"  />
   </a>
