@@ -2,9 +2,11 @@
   <img height="200" src="seanway.gif"  />
 </div>
 
-###
+### Vladimirsama
 
-<p align="left">I'm Vladimir-sama, an 19-year-old programmer and game developer based in Argentina.</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G21F051Q)
+
+<p align="left">I'm Vladimirsama, an 19-year-old programmer and game developer based in Argentina.</p>
 <p align="left">Fluent in both English and Spanish, and currently learning Russian</p>
 <p align="center"><a href="https://vladimir-sama.github.io/" target="_blank">Personal Page</a></p>
 
